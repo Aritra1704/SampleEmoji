@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleEmoji</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="emoji_text_view">Emoji TextView %s</string>
+    <string name="emoji_edit_text">Emoji EditText %s</string>
+    <string name="emoji_button">Emoji Button %s</string>
+    <string name="regular_text_view">Regular TextView %s</string>
+</resources>
